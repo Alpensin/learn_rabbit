@@ -1,0 +1,16 @@
+{
+  "id": "707672",
+  "has_diff_point_main_information": true,
+  "has_diff_partners": true,
+  "has_diff_directions": false,
+  "time": {
+    "work": {
+      "b2b": true,
+      "b2c": true
+    },
+    "daily": {
+      "b2b": false,
+      "b2c": false
+    }
+  }
+}
